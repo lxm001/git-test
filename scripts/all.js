@@ -1,0 +1,1 @@
+"use strict";console.log("12313"),alert(123);var demo="asdasd";console.log(demo),demo=123,console.log("asdad12s");
